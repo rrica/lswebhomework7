@@ -5,9 +5,16 @@
 1. Feynman Writing Prompts - Write out explanations of the following concepts like you are explaining it to a 12 year old.  Doing this will help you quickly discover any holes in your understanding.  Ask your questions on Slack.
 		
 	* Array
+	
+An array is an object that can store more than one value (e.g. several words) under one name (variable). The variable then refers to all of these words stored in it. 
+
 	* Object
+	
+An object, such as an array, holds several properties of the object in one name. 
+
 	* Method
 
+A method is a command (stored as a function) that can be applied to an object to make it do something.
 
 3. Fork and clone this repo.  When you need to commit use the following commands.
 		
